@@ -1,0 +1,12 @@
+{
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "window.titleBarStyle": "custom",
+    "editor.tabSize": 2,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.snippetSuggestions": "none",
+    "editor.suggestSelection": "first",
+    "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
+}
+
