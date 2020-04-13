@@ -1,0 +1,5 @@
+[alias]
+	st = status -sbu
+	f = fetch --all -p
+	fush = push --force-with-lease
+	lo = log --oneline
